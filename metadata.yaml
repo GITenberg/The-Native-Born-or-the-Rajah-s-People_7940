@@ -1,0 +1,24 @@
+_repo: The-Native-Born-or-the-Rajah-s-People_7940
+creator:
+  author:
+    agent_name: Wylie, I. A. R. (Ida Alexa Ross)
+    alias: Wylie, Ida Alexa Ross
+    birthdate: 1885
+    deathdate: 1959
+    gutenberg_agent_id: '2583'
+    url: http://www.gutenberg.org/2009/agents/2583
+    wikipedia: http://en.wikipedia.org/wiki/Ida_Alexa_Ross_Wylie
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Fiction'
+- !lcc 'PR'
+title: The Native Born; or, the Rajah's People
+url: http://www.gutenberg.org/ebooks/7940
