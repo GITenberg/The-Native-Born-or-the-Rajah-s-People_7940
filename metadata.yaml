@@ -1,4 +1,8 @@
 _repo: The-Native-Born-or-the-Rajah-s-People_7940
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wylie, I. A. R. (Ida Alexa Ross)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2583
     wikipedia: http://en.wikipedia.org/wiki/Ida_Alexa_Ross_Wylie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7940#The-Native-Born-or-the-Rajah-s-People
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
